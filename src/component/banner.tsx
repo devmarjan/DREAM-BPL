@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     // bg-image
     <div
-      className="container w-full md:mx-auto bg-black rounded-md h-130"
+      className="container w-full mx-auto bg-black rounded-md h-130"
       style={{ backgroundImage: `url(${BG})` }}
     >
       <div className="flex flex-col items-center justify-center container mx-auto px-4">
