@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "playerName": "Shakib Al Hasan",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "Bangladesh",
@@ -9,6 +10,7 @@
     "price": 500
   },
   {
+    "id": 2,
     "playerName": "Babar Azam",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "Pakistan",
@@ -18,6 +20,7 @@
     "price": 300
   },
   {
+    "id": 3,
     "playerName": "Rashid Khan",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "Afghanistan",
@@ -27,6 +30,7 @@
     "price": 700
   },
   {
+    "id": 4,
     "playerName": "Jos Buttler",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "England",
@@ -36,6 +40,7 @@
     "price": 700
   },
   {
+    "id": 5,
     "playerName": "Travis Head",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "Australia",
@@ -45,6 +50,7 @@
     "price": 700
   },
   {
+    "id": 6,
     "playerName": "Jasprit Bumrah",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "India",
@@ -54,6 +60,7 @@
     "price": 700
   },
   {
+    "id": 7,
     "playerName": "Andre Russell",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "West Indies",
@@ -63,6 +70,7 @@
     "price": 700
   },
   {
+    "id": 8,
     "playerName": "Kane Williamson",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "New Zealand",
@@ -72,6 +80,7 @@
     "price": 700
   },
   {
+    "id": 9,
     "playerName": "Shaheen Afridi",
     "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
     "origin": "Pakistan",
@@ -79,14 +88,5 @@
     "bowlingStyle": "Left-arm fast",
     "battingStyle": "Left-hand",
     "price": 600
-  },
-  {
-    "playerName": "Ravindra Jadeja",
-    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
-    "origin": "India",
-    "playerType": "All-Rounder",
-    "bowlingStyle": "Left-arm orthodox",
-    "battingStyle": "Left-hand",
-    "price": 200
   }
 ]
